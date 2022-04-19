@@ -2,4 +2,19 @@
 
 #### Junior Software Engineer; student of BSUIR, speciality - Artificial Intelligence
 
-##### Languages and tools:
+#### Languages and tools:
+![](bootstrap_page-0001.jpg)
+![](cplusplus_page-0001.jpg)
+![](css3_page-0001.jpg)
+![](git_page-0001.jpg)
+![](github_page-0001.jpg)
+![](hibernate_page-0001.jpg)
+![](html5_page-0001.jpg)
+![](java_page-0001.jpg)
+![](mysql_page-0001.jpg)
+![](postgresql_page-0001.jpg)
+![](spring_page-0001.jpg)
+![](springboot_page-0001.jpg)
+![](springsecurity_page-0001.jpg)
+
+#### English level: А2
